@@ -57,7 +57,7 @@ self.addEventListener('fetch', event => {
         .catch(() => {
           // Optional: fallback page if offline and request fails
           if (event.request.mode === 'navigate') {
-            return caches.match('/loading.html');
+            return caches.match('/loadingscreen.html');
           }
         });
     })
