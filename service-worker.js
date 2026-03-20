@@ -1,7 +1,7 @@
 const CACHE_NAME = 'didas-pwa-v2';
 const ASSETS_TO_CACHE = [
   '/',
-  '/loading.html',
+  '/loadingscreen.html',
   '/homepage.html',
   '/students.html',
   '/dashboard.html',

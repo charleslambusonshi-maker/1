@@ -3,7 +3,7 @@
   "name": "DIDAS - Smart Attendance",
   "short_name": "DIDAS",
   "description": "RFID Attendance Management PWA",
-  "start_url":"/loading.html",
+  "start_url":"/loadingscreen.html",
   "display": "standalone",
   "background_color": "#111111",
   "theme_color": "#7b56a3",
